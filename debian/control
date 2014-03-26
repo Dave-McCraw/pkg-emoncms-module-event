@@ -1,0 +1,12 @@
+Source: emoncms-module-event
+Section: non-free/web
+Priority: optional
+Maintainer: Dave McCraw <dave@mccraw.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.2
+
+Package: emoncms-module-event
+Architecture: any
+Depends: emoncms, php5-mcrypt, php5-curl
+Description: The emoncms 'event' module. See https://github.com/emoncms/event
+
