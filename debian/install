@@ -1,3 +1,3 @@
 *.php /usr/share/emoncms/www/Modules/event/
 scripts /usr/share/emoncms/www/Modules/event/
-*.md /var/www/emoncms/Modules/event/
+*.md /usr/share/emoncms/www/Modules/event/
